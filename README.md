@@ -1,6 +1,6 @@
 # DistributeurBanque
 
-Programme **C# Console** de borne bancaire. 
+Programme **C# Console** de borne bancaire, réalisé en janvier 2022.
 
 Fonctions : 
 - connexion,
